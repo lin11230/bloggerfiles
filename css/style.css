@@ -7,6 +7,7 @@ pre {
   background-color: #4f4f4f;
   color: #80d4aa;
   padding: 8px;
+  word-wrap: break-word;
 }
 
 a.state:link {
