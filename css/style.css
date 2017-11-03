@@ -9,5 +9,10 @@ pre {
   padding: 8px;
 }
 
-a:link { color: blue; }
-a:visited { color: purple; }
+a.state:link {
+  color: blue;
+}
+
+a.state:visited {
+  color: purple;
+}
