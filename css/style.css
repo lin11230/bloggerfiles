@@ -9,4 +9,5 @@ pre {
   padding: 8px;
 }
 
-
+a:link { color: blue; }
+a:visited { color: purple; }
